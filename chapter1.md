@@ -16,17 +16,15 @@ Koa2 依赖的Node版本为 node v7.6.0 或者 更高版本。
 >
 > $ yarn add koa
 >
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> 或者可以
+>
+> 或者可以：
 >
 > $ nvm install 9
 >
 > $ nvm use 9
 >
 > $ npm install koa
-
-
 
 
 
