@@ -24,6 +24,8 @@ Koa2 依赖的Node版本为 node v7.6.0 或者 更高版本。
 >
 > $ npm install koa
 
+
+
 ```js
 //创建文件夹
 $ mkdir example-koa
@@ -54,5 +56,5 @@ console.log("Server is running at port " + port )
 node index.js
 ```
 
-我们访问http:localhost:8888 就能见到`Hello World! `啦！！
+我们访问http:localhost:8888 就能见到`Hello World!`啦！！
 
