@@ -16,8 +16,6 @@ Koa2 依赖的Node版本为 node v7.6.0 或者 更高版本。
 >
 > $ yarn add koa
 >
->
->
 > 或者可以：
 >
 > $ nvm install 9
@@ -25,6 +23,17 @@ Koa2 依赖的Node版本为 node v7.6.0 或者 更高版本。
 > $ nvm use 9
 >
 > $ npm install koa
+
+```js
+//创建文件夹
+$ mkdir example-koa
+$ yarn init/npm init
+
+//安装koa
+$ yarn add koa
+```
+
+
 
 
 
