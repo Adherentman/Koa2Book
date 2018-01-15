@@ -1,3 +1,4 @@
-# My Awesome Book
+# Koa2学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录日常学习Koa2，让我们一起扎实的一步一步去玩koa2.
+
