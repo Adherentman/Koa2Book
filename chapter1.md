@@ -48,5 +48,11 @@ app.listen(port);
 console.log("Server is running at port " + port )
 ```
 
+### 跑程序！
 
+```
+node index.js
+```
+
+我们访问http:localhost:8888 就能见到`Hello World! `啦！！
 
