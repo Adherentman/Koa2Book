@@ -33,6 +33,14 @@ app.use(async ctx => {
 app.listen(3000);
 ```
 
+
+
+大家可以直接复制代码到chrome的控制台里去运行。
+
+
+
+赋值
+
 async/await需要注意以下几点：
 
 * async 函数返回一个 Promise 对象，可以使用 then 方法添加回调函数
