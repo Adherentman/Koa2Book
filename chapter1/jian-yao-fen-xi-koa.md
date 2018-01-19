@@ -8,7 +8,9 @@
 
 那么我们先来看一个图：
 
-![](http://ozar6ogjb.bkt.clouddn.com/koa%E6%B4%8B%E8%91%B1.png)
+![](http://ozar6ogjb.bkt.clouddn.com/koa洋葱.png)
+
+Koa 中间件使用的模型，也被称为洋葱圈模型。
 
 
 
