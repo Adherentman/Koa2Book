@@ -2,7 +2,7 @@
 
 一个官网下的小栗子：
 
-[https://koa.bootcss.com/](https://koa.bootcss.com/ "koa官方中文文档")
+koa官方中文文档：[https://koa.bootcss.com/](https://koa.bootcss.com/ "koa官方中文文档")
 
 ```js
 const Koa = require('koa');
