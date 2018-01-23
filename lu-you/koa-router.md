@@ -32,7 +32,6 @@ app.use(router.routes()).use(router.allowedMethods());
 
 app.listen(port);
 console.log("Server is running at port " + port );
-
 ```
 
 
